@@ -25,6 +25,8 @@ if option=='ROUTES':
   source_code = HtmlFile.read() 
   components.html(source_code, height = 1200,width=1000)
 
+got.got_func(physics)
+
 if option=='GOT':
   HtmlFile = open("./html/gameofthrones.html", 'r', encoding='utf-8')
   source_code = HtmlFile.read() 
