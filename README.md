@@ -2,7 +2,9 @@
 ## Atividade 01 - Prática com PyVis e Streamlit
 Deploy disponível em: https://networkanalysispyvisapp-houszb285jh.streamlit.app/
 
-Para visualizar os dados extraído pelo Gephi com o SigmaJS: https://github.com/alexalmeida52/network-gephi-sigmajs
+Para visualizar os dados extraído pelo Gephi com o SigmaJS: https://alexalmeida52.github.io/network-gephi-sigmajs/
+
+Repositório: https://github.com/alexalmeida52/network-gephi-sigmajs
 
 # **Autores**
 ### José Alex
