@@ -6,6 +6,8 @@ Para visualizar os dados extraído pelo Gephi com o SigmaJS: https://alexalmeida
 
 Repositório: https://github.com/alexalmeida52/network-gephi-sigmajs
 
+Colab: https://drive.google.com/file/d/1zj-oBdH6IDqZ0Jwv4MG9-kBMd5tg8Dhw/view?usp=sharing
+
 # **Autores**
 ### José Alex
 ### Fabricio Cruz
