@@ -16,7 +16,7 @@ def net_repr_html(self):
 
 Network._repr_html_ = net_repr_html
 st.sidebar.title('Selecione a página que deseja visualizar!')
-option=st.sidebar.selectbox('Selecione',('ABOUT', 'FILTERED ROUTES', 'HISTOGRAM', 'COMMUNITY', 'GOT'))
+option=st.sidebar.selectbox('Selecione',('ABOUT', 'ROUTES', 'HISTOGRAM', 'COMMUNITY', 'GOT'))
 physics=st.sidebar.checkbox('Adicionar interatividade?')
 
 routes.routes_func(physics)
